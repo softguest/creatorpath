@@ -31,7 +31,7 @@ export const bootcampConfig = {
     name: "BORIS AMAH",
     title: "Software Developer • Content Creator • Storyteller",
     bio: "I started creating content in 2024 and learned through experimentation, storytelling, client work and real-world content performance. Now I'm opening the system I've built to a small group of creators who are ready to stop guessing and start creating.",
-    image: "/images/boris-amah.jpg",
+    image: "/images/boris-amah.png",
   },
 
   stats: [
