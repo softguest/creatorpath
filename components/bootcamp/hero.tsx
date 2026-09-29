@@ -92,17 +92,17 @@ export default function Hero() {
             {/* Floating Stats Cards */}
             <div className="absolute -top-8 -right-8 glass rounded-xl p-4 border border-white/10 animate-float">
               <p className="text-xs text-[#A1A1AA] mb-1">ENGAGEMENT</p>
-              <p className="text-2xl font-bold text-[#D4AF37]">+18.4%</p>
+              <p className="text-2xl font-bold text-[#D4AF37]">+37.7k</p>
             </div>
 
             <div className="absolute top-1/3 -left-8 glass rounded-xl p-4 border border-white/10 animate-float" style={{ animationDelay: "1s" }}>
               <p className="text-xs text-[#A1A1AA] mb-1">VIEWS</p>
-              <p className="text-2xl font-bold text-white">12.8K</p>
+              <p className="text-2xl font-bold text-white">570.8K</p>
             </div>
 
             <div className="absolute bottom-20 -right-8 glass rounded-xl p-4 border border-white/10 animate-float" style={{ animationDelay: "2s" }}>
               <p className="text-xs text-[#A1A1AA] mb-1">AUDIENCE</p>
-              <p className="text-2xl font-bold text-white">4.7K</p>
+              <p className="text-2xl font-bold text-white">11.1K</p>
             </div>
 
             <div className="absolute -bottom-8 left-1/4 glass rounded-xl p-4 border border-white/10 animate-float" style={{ animationDelay: "0.5s" }}>

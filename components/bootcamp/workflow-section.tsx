@@ -54,7 +54,7 @@ export default function WorkflowSection() {
           {/* Visual Placeholder */}
           <div className="relative aspect-[4/3] glass-strong rounded-xl overflow-hidden border border-white/10">
             <Image
-              src="/images/workflow.jpg"
+              src="/images/workflow.webp"
               alt="Creator workflow visualization"
               fill
               className="object-cover"
