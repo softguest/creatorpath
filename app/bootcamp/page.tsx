@@ -16,29 +16,13 @@ import Instructor from "@/components/bootcamp/instructor";
 import FAQ from "@/components/bootcamp/faq";
 import FinalCTA from "@/components/bootcamp/final-cta";
 import Footer from "@/components/bootcamp/footer";
-import TawkChat from "@/components/bootcamp/TawkChat";
 
 export default function Home() {
   return (
     <main className="bg-[#050505] text-white">
       <Navigation />
-      {/* <Hero /> */}
-      <TrustBar />
-      <StoryTimeline />
-      <SystemSection />
-      <BootcampTimeline />
-      <WorkflowSection />
-      <ProcessLoop />
       <PricingCards />
-      <AcceleratorSection />
-      <AudienceGrid />
-      <EquipmentSection />
-      <Outcomes />
-      {/* <Instructor /> */}
-      <FAQ />
-      <FinalCTA />
       <Footer />
-      <TawkChat />
     </main>
   );
 }

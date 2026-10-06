@@ -6,16 +6,16 @@ import "./globals.css";
 const inter = Inter({ subsets: ["latin"] });
 
 export const metadata: Metadata = {
-  title: "30-Day Creator Bootcamp | Boris Amah",
+  title: "Creator Journey | Start Earning through Storytelling",
   description: "Learn how to create meaningful content, build your creator system, understand analytics and work toward monetization in 30 days.",
   openGraph: {
-    title: "30-Day Creator Bootcamp | Boris Amah",
+    title: "Creator Journey | Start Earning through Storytelling",
     description: "Learn how to create meaningful content, build your creator system, understand analytics and work toward monetization in 30 days.",
     type: "website",
   },
   twitter: {
     card: "summary_large_image",
-    title: "30-Day Creator Bootcamp | Boris Amah",
+    title: "Creator Journey | tart Earning through Storytelling",
     description: "Learn how to create meaningful content, build your creator system, understand analytics and work toward monetization in 30 days.",
   },
 };

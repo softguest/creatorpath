@@ -15,7 +15,7 @@ export const bootcampConfig = {
       name: "INSIDER",
     },
     accelerator: {
-      amount: "100,000 FCFA",
+      amount: "50,000 FCFA",
       name: "CREATOR ACCELERATOR",
     },
   },

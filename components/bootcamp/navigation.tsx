@@ -39,7 +39,7 @@ export default function Navigation() {
         <div className="flex items-center justify-between h-20">
           {/* Logo */}
           <Link href="/" className="text-xl font-bold tracking-tight">
-            BORIS AMAH
+            Creator Journey
           </Link>
 
           {/* Desktop Navigation */}
@@ -60,7 +60,7 @@ export default function Navigation() {
             href={createWhatsAppUrl(whatsappMessages.general)}
             className="hidden md:block px-6 py-2.5 bg-[#D4AF37] text-[#050505] text-sm font-semibold rounded-lg hover:bg-[#F5C542] transition-all hover:scale-105"
           >
-            JOIN THE BOOTCAMP
+            JOIN THE JOURNEY
           </a>
 
           {/* Mobile Menu Button */}
@@ -92,7 +92,7 @@ export default function Navigation() {
               href={createWhatsAppUrl(whatsappMessages.general)}
               className="block w-full px-6 py-3 bg-[#D4AF37] text-[#050505] text-sm font-semibold rounded-lg hover:bg-[#F5C542] transition-all text-center mt-4"
             >
-              JOIN THE BOOTCAMP
+              JOIN THE JOURNEY
             </a>
           </div>
         </div>

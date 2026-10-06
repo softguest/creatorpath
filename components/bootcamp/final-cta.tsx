@@ -46,7 +46,7 @@ export default function FinalCTA() {
             href={createWhatsAppUrl(whatsappMessages.general)}
             className="px-10 py-5 bg-[#D4AF37] text-[#050505] text-lg font-bold rounded-lg hover:bg-[#F5C542] transition-all hover:scale-105 gold-glow-strong"
           >
-            JOIN THE BOOTCAMP →
+            JOIN THE JOURNEY →
           </a>
           
           <a

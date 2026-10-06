@@ -60,7 +60,7 @@ export default function Hero() {
                 href={createWhatsAppUrl(whatsappMessages.general)}
                 className="group px-8 py-4 bg-[#D4AF37] text-[#050505] font-semibold rounded-lg hover:bg-[#F5C542] transition-all hover:scale-105 gold-glow flex items-center justify-center gap-2"
               >
-                JOIN THE BOOTCAMP
+                JOIN THE JOURNEY
                 <ArrowRight className="w-5 h-5 group-hover:translate-x-1 transition-transform" />
               </a>
               <a
